@@ -1,0 +1,3 @@
+# Пример списка репозиториев для миграции
+https://gitlab.sensetower.io/Sense-Capital/Documentation.git
+git@gitlab.sensetower.io:Sense-Capital/Ads-SenseTower.git
